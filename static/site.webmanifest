@@ -1,7 +1,7 @@
 {
-    "name": "Hyprland Wiki",
-    "short_name": "HyprWiki",
-    "description": "The official wiki for the Hyprland window manager",
+    "name": "Splazma Pages",
+    "short_name": "Splazma Pages",
+    "description": "Pages about Splazma",
     "start_url": "/",
     "dir": "auto",
     "lang": "en-US",

@@ -1,4 +1,4 @@
-module github.com/hyprwm/hyprland-wiki
+module github.com/DillerOFire/splazma-pages
 
 go 1.22.0
 

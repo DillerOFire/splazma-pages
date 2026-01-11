@@ -1,20 +1,16 @@
 ---
-weight: 12
+weight: 2
 title: Connect
 ---
 
-These are the links to official Hyprland-related spaces or profiles:
+These are the links to splazma-related network:
 
-## Profiles
+## Telegram channel
 
-Twitter: [twitter.com/hyprwm](https://twitter.com/hyprwm)
+\[SPlasma\] ᗜ_ᗜ: [t.me/splazma](https://t.me/sfirebase)
 
-## Spaces
+## Telegram chats
 
-Discord: [discord.gg/hQ9XvMUjjr](https://discord.gg/hQ9XvMUjjr)<br/>
-Matrix: `#hyprland:matrix.vaxry.net`
+Latinx (and hieroglyphic): [https://t.me/sfiercht](https://t.me/sfiercht)
 
-## Other
-
-hyprland.org git instance: [code.hyprland.org](https://code.hyprland.org/)<br/>
-Hyprland website: [hyprland.org](https://hyprland.org/)<br/>
+Cyrillic: [https://t.me/splazma_cis](https://t.me/splazma_cis)

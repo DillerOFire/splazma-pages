@@ -1,5 +1,5 @@
-baseURL                = "https://wiki.hypr.land/"
-title                  = "Hyprland Wiki"
+baseURL                = "https://pages.splazma.site/"
+title                  = "Splazma Pages"
 enableRobotsTXT        = true
 enableGitInfo          = true
 defaultContentLanguage = "en"
@@ -28,8 +28,9 @@ noClasses = false
 [[menu.main]]
 identifier = "version"
 name       = "Latest git"
-url        = "https://wiki.hypr.land/version-selector/"
+url        = "https://pages.splazma.site/version-selector/"
 weight     = 1
+
 [[menu.main.params]]
 type     = "version"
 outdated = false  # set for any version that isn't the current one
@@ -38,20 +39,8 @@ version  = ""     # only change when setting the version, otherwise it is "Lates
 [[menu.main]]
 identifier = "Home"
 name       = "Home"
-url        = "https://hypr.land/"
+url        = "https://splazma.site/"
 weight     = 2
-
-[[menu.main]]
-identifier = "showcase"
-name       = "Showcase"
-url        = "https://hypr.land/hall_of_fame"
-weight     = 3
-
-[[menu.main]]
-identifier = "News"
-name       = "News"
-url        = "https://hypr.land/news"
-weight     = 4
 
 [[menu.main]]
 name   = "Search"
@@ -59,22 +48,15 @@ weight = 5
 [menu.main.params]
 type = "search"
 
-#[[menu.main]]
-#name   = "Discord"
-#weight = 6
-#url    = "https://discord.gg/hyprland-cathedral-961691461554950145"
-#[menu.main.params]
-#icon = "discord"
-
 [[menu.main]]
-name   = "GitHub"
+name   = "Telegram"
 weight = 7
-url    = "https://github.com/hyprwm/Hyprland"
+url    = "https://t.me/sfirebase"
 [menu.main.params]
-icon = "github"
+icon = "telegram"
 
 [params]
-description        = "The documentation for Hyprland."
+description        = "Splazma Pages documentation."
 displayUpdatedDate = true
 dateFormat         = "January 2, 2006"
 
@@ -86,6 +68,8 @@ width        = "full"
 [params.navbar.logo]
 path = "favicon.svg"
 dark = "favicon-dark.svg"
+height = 30
+width = 30
 
 [params.page]
 width = "full"
@@ -109,7 +93,7 @@ index = "content"
 
 [params.editURL]
 enable = true
-base   = "https://github.com/hyprwm/hyprland-wiki/edit/main/content/"
+base   = "https://github.com/DillerOFire/splazma-pages/edit/main/content/"
 
 [params.blog.list]
 displayTags = true

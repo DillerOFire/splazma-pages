@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 330 241.24 312.89">
-  <defs>
-      <linearGradient id="hl-45deg" x1="10%" y1="90%" x2="90%" y2="10%">
-        <stop offset="0%" stop-color="rgb(0, 168, 244)" />
-        <stop offset="100%" stop-color="rgb(0, 229, 208)" />
-      </linearGradient>
-    </defs>
-  <style>
-    path {
-      fill: url(#hl-45deg)
-    }
-  </style>
-  <path d="M107 330c-25.9 39.39-61.43 86.28-79.3 114.97C9.83 473.67-1.86 502.32.24 536.26c3.85 62.1 56.46 106.63 120.38 106.63v-27.4c-51.66 0-90.07-33.06-93.03-80.93-1.67-26.96 6.9-48.66 23.37-75.1 14.07-22.6 33.9-47.95 56.03-80.2zm27.25 0c25.89 39.39 61.42 86.28 79.29 114.97 17.87 28.7 29.56 57.35 27.46 91.29-3.85 62.1-56.46 106.63-120.38 106.63v-27.4c51.66 0 90.07-33.06 93.03-80.93 1.67-26.96-6.9-48.66-23.37-75.1-14.07-22.6-33.9-47.95-56.03-80.2z" />
+<svg width="61" height="61" viewBox="0 0 61 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="16.6161" y1="21.9874" x2="46.7843" y2="34.3055" stroke="#00B7FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16.2022" y1="47.8362" x2="46.5343" y2="35.3639" stroke="#00B7FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="10.7542" y1="34.9131" x2="46.9828" y2="34.6899" stroke="#00B7FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.0501 16.8893L47.4528 14.924L47.4528 35.078L37.7764 44.7986L28.3264 54.2057L15.4853 48.8872L10.0225 35.6974L15.4853 22.5075L29.0501 16.8893Z" stroke="#00B7FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
